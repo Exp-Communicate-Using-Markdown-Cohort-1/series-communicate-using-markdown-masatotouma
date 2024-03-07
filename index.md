@@ -5,3 +5,5 @@
 ##### H5 Header
 ###### H6 Header
 Body
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
